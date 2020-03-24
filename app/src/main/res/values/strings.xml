@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCompatActivity</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="butn_send">Send</string>
+</resources>
